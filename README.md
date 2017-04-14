@@ -14,9 +14,15 @@ It will send you a letter with a report once a month.
 Open your web site at http://site.com/path-to-scripts/du-notifier.php to see the html report.
 Set password for this folder to protect it from undesired access.
 
+## Email Report Example
+
+The letter in Gmail interface.
+
+![Du-notifier E-mail report](du-notifier-email-report.png)
+
 ## Online HTML Report Example
 
 See below.
 
-![Alt text](du-notifier-html-report.png)
+![Du-notifier HTML report](du-notifier-html-report.png)
 
