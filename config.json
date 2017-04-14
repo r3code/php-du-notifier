@@ -1,0 +1,20 @@
+{
+  "rootDir": "/home/user/accountId",     
+  "totalDiskQuotaMb": 15360,
+  "maxSiteCount": 25,       
+  "reportInfo": {
+    "mailFrom": "status@example.org",    
+    "name": "Disk space usage report for account cp10000/timeweb.ru",
+    "type": "html"
+  },
+  "sites": [
+    {
+      "domain":"site1.ru",
+      "path": "/sites/site1.ru"
+    },
+    {
+      "domain":"site2.ru",
+      "path": "/subfolder/site2.ru"
+    } 
+  ]
+}
